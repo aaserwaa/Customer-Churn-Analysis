@@ -17,25 +17,25 @@ This project aims to develop a machine learning model to predict customer churn 
 ## Project Structure
 The project is organized into the following main components:
 
-### 1. `data/`
+ 1. `data/`
    - Contains the dataset used in the project.
   
-### 2. `notebooks/`
+ 2. `notebooks/`
    - Includes the Jupyter notebook used for data exploration, preprocessing, modeling, and evaluation.
   
-### 3. `models/`
+ 3. `models/`
    - Stores trained machine learning models.
    
-### 4. `encoders/`
+ 4. `encoders/`
    - Saves encoders or transformers used during preprocessing.
    
-### 5. `README.md`
+ 5. `README.md`
    - The main documentation file providing an overview of the project.
 
-### 6. `requirements.txt`
+ 6. `requirements.txt`
    - Lists all project dependencies for easy installation.
 
-### 7. `images/`
+ 7. `images/`
    - Contains images, charts, or diagrams used in documentation.
 
 
@@ -43,11 +43,17 @@ The project is organized into the following main components:
 To run this project, you need to have the following dependencies installed. You can install them using `pip`:
 
 pandas: Data manipulation and analysis.
+
 scikit-learn: Machine learning tools and utilities.
+
 matplotlib: Data visualization.
+
 seaborn: Statistical data visualization.
+
 joblib: Joblib is used for parallelizing code, particularly during model training.
+
 numpy: Mathematical functions for numerical operations.
+
 jupyter: Jupyter notebooks for interactive data exploration.
 
 ## Installation
@@ -56,12 +62,10 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/aaserwaa/Customer-Churn-Analysis.git
 cd your-project
 
 ## Usage
-###  Run the Notebook
 
 Run the cells in the notebook to execute the machine learning pipeline. This includes data preprocessing, model training, and evaluation.
 
@@ -74,7 +78,7 @@ Review the results and metrics presented in the notebook. This includes insights
 If you want to save the trained model for later use, follow the instructions in the "Model Persistence" section.
 
 
-## Data, Data Exploration, and Preprocessing
+## Data Exploration and Preprocessing
 
 ### Data Overview
 
