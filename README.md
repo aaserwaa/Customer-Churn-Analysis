@@ -204,4 +204,6 @@ Contributions to this project are welcome. To contribute, please follow these st
 
 This project is licensed under the [MIT License](LICENSE).
 
+Here is a link to my [published article on LinkedIn](https://www.linkedin.com/pulse/customer-churn-analysis-my-journey-predictive-analytics-serwaa-akoto-wnvke)
+
 
