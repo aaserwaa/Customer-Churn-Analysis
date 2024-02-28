@@ -141,19 +141,25 @@ The grid search results for each model are summarized below:
 
 #### Decision Tree
 Performing hyperparameter tuning for Decision Tree
-Best parameters: {'classifier__criterion': 'gini', 'classifier__max_depth': 20, 'classifier__min_samples_split': 10}
+Best parameters: 
+{'classifier__criterion': 'gini', 'classifier__max_depth': 20, 'classifier__min_samples_split': 10}
+
 Best accuracy: 0.880518170720833
 
 #### Random Forest
 
 Performing hyperparameter tuning for Random Forest
-Best parameters: {'classifier__criterion': 'entropy', 'classifier__max_depth': 20, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+Best parameters: 
+{'classifier__criterion': 'entropy', 'classifier__max_depth': 20, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+
 Best accuracy: 0.8951423801046058
 
 #### Support Vector Machine (SVM)
 
 Performing hyperparameter tuning for SVM
-Best parameters: {'classifier__C': 10, 'classifier__kernel': 'rbf'}
+Best parameters:
+{'classifier__C': 10, 'classifier__kernel': 'rbf'}
+
 Best accuracy: 0.8691102358088807
 
 ### Model Comparison
